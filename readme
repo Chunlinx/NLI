@@ -1,0 +1,3 @@
+To trian the model
+1. Set the path in glove.py
+2. run train.py file and the best model will be saved to saved_model folder.
