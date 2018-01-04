@@ -1,3 +1,5 @@
 To trian the model
-1. Set the path in glove.py
-2. run train.py file and the best model will be saved to saved_model folder.
+1. Set the path of glove embeddings file in glove.py.
+2. Create folders data, data_pickles, saved_models in the main directory.
+3. Download SNLI dataset.
+4. run train.py file and the best models will be saved to saved_model folder.
