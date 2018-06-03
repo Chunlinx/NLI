@@ -3,3 +3,4 @@ To trian the model
 2. Create folders data, data_pickles, saved_models in the main directory.
 3. Download SNLI dataset.
 4. run train.py file and the best models will be saved to saved_model folder.
+
